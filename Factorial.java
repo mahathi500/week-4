@@ -11,7 +11,7 @@ public class Factorial {
     }
 
     public static void main(String[] args) {
-        int number = 5; // Example number to calculate factorial
+        int number = 7; // Example number to calculate factorial
         long result = factorial(number); // Call the method
         System.out.println("Factorial of " + number + " is: " + result);
     }
